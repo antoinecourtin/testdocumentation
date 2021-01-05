@@ -3,5 +3,5 @@ sort: 1
 ---
 
 
-# 1ère page
+# Page n°1
 
