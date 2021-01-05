@@ -3,5 +3,5 @@ sort: 2
 ---
 
 
-# page2
+# Page n°2
 
