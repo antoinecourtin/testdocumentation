@@ -1,10 +1,8 @@
-# starter-slim
+# Accueil doc perso Antoine
 
-1. [Generate with the same files and folders](https://github.com/rundocs/starter-slim/generate) from this repository
-2. Set up your GitHub Pages to source(`/`)
-3. Now you can view your documentation in your site
+en cours
 
-## site.pages
+## Pages dans le repo
 
 <!-- prettier-ignore-start -->
 
@@ -16,19 +14,10 @@
 
 <!-- prettier-ignore-end -->
 
-## Documents
+## ressources 
 
 https://jekyll-rtd-theme.rundocs.io
 
-## Local debug
-
-```sh
-gem install jekyll bundler
-
-bundle install
-
-JEKYLL_GITHUB_TOKEN=blank PAGES_API_URL=http://0.0.0.0 bundle exec jekyll server --livereload
-```
 
 ## The license
 
