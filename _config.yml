@@ -1,5 +1,5 @@
-title: Your awesome title
-lang: en
+title: documentation antoine courtin
+lang: fr
 description: Write an awesome description for your new site here
 
 ## local method ##
@@ -13,7 +13,7 @@ description: Write an awesome description for your new site here
 remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
-  with_frontmatter: true
+  with_frontmatter: false
 
 exclude:
   - Gemfile
